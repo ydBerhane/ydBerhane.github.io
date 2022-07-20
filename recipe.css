@@ -1,0 +1,21 @@
+.lemon, .title h2,h3{
+    color: rgb(189, 87, 237);
+    text-decoration: underline;
+   
+}
+.title h2,h3{
+    background-color: aliceblue;
+}
+.center{
+    text-align: center;
+}
+.container{
+    margin-top: 10px;
+}
+.user-coment{
+    background-color: rgb(25, 165, 246);
+}
+.footer{
+    text-align: right;
+    padding-right: 1%;
+}
